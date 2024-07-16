@@ -1,0 +1,6 @@
+[submodule "CommunityClassroomOP"]
+	path = CommunityClassroomOP
+	url = git@github.com:klausMike/CommunityClassroomOP.git
+[submodule "dupedCommunityclassrooms"]
+	path = dupedCommunityclassrooms
+	url = https://github.com/klausMike/CommunityClassroomOP
